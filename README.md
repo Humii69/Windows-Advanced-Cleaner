@@ -1,5 +1,3 @@
-![image (2)](https://user-images.githubusercontent.com/65187106/221537590-4dd2b419-cd4c-4c1e-9d39-92d6c78ee3b1.png)
-
 # Windows Advanced Cleaner
 
 The Windows Advanced Cleaner is a powerful and simple batch script designed to help you clean up your Windows computer quickly and easily. This script can help you get rid of unnecessary files, folders, and other temporary data that can accumulate over time, slowing down your system and taking up valuable storage space.
