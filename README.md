@@ -1,3 +1,4 @@
+![image (2)](https://user-images.githubusercontent.com/65187106/221537590-4dd2b419-cd4c-4c1e-9d39-92d6c78ee3b1.png)
 
 # Windows Advanced Cleaner
 
